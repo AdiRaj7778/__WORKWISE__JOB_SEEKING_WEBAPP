@@ -61,12 +61,16 @@ Before you begin, ensure you have met the following requirements:
 ### Vite
 The project uses Vite for the frontend. Ensure Vite is properly configured in your `package.json` file.
 
-For example:
-![HomePage]("https://github.com/AdiRaj7778/__WORKWISE__JOB_SEEKING_WEBAPP/blob/main/FRONTEND/public/HomePage.png")
 
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-If you have any questions or feedback, please feel free to contact me at adiraj1997@gmail.com.com.
+If you have any questions or feedback, please feel free to contact me at adiraj1997@gmail.com
+
+## Screenshots !
+![HomePage](https://github.com/AdiRaj7778/__WORKWISE__JOB_SEEKING_WEBAPP/blob/main/FRONTEND/public/HomePage.png)
+![HomePage2](https://github.com/AdiRaj7778/__WORKWISE__JOB_SEEKING_WEBAPP/blob/main/FRONTEND/public/HomePage2.png)
+![Register](https://github.com/AdiRaj7778/__WORKWISE__JOB_SEEKING_WEBAPP/blob/main/FRONTEND/public/Register.png)
+![Login](https://github.com/AdiRaj7778/__WORKWISE__JOB_SEEKING_WEBAPP/blob/main/FRONTEND/public/Login.png)
